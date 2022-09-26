@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRISTIAN1000160022/PruebaHogarUniversal/static/css/main.29cd549e.css",
+    "main.js": "/CRISTIAN1000160022/PruebaHogarUniversal/static/js/main.84e1c222.js",
+    "static/js/787.8b268ba3.chunk.js": "/CRISTIAN1000160022/PruebaHogarUniversal/static/js/787.8b268ba3.chunk.js",
+    "index.html": "/CRISTIAN1000160022/PruebaHogarUniversal/index.html",
+    "main.29cd549e.css.map": "/CRISTIAN1000160022/PruebaHogarUniversal/static/css/main.29cd549e.css.map",
+    "main.84e1c222.js.map": "/CRISTIAN1000160022/PruebaHogarUniversal/static/js/main.84e1c222.js.map",
+    "787.8b268ba3.chunk.js.map": "/CRISTIAN1000160022/PruebaHogarUniversal/static/js/787.8b268ba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.84e1c222.js"
+  ]
+}
